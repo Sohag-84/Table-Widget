@@ -1,16 +1,8 @@
-# table_widget
+# Table Widget
 
-A new Flutter project.
+Flutter Table widget
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen Shoot
+<p align="center">
+  <img width="350" height="700" src="https://github.com/Sohag-84/Table-Widget/assets/99319134/9f4d853c-40ce-4e7c-9cfb-2cd62070e1df">
+</p>
